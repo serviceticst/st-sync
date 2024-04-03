@@ -1,6 +1,8 @@
 # ST-Sync
 Plugin para integração entre duas instancias do GLPI (Plugin for integration between two GLPI instances)
 
+Vídeo de configuração (Setup video): https://youtu.be/IY81bB2bRgE
+
 https://github.com/serviceticst/st-sync/releases/download/1.0.0/stsync.zip
 
 ![image](https://github.com/serviceticst/st-sync/assets/70910492/4c4f5040-d4c3-4362-ae83-505f4ff9c047)
