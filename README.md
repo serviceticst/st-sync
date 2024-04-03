@@ -27,4 +27,3 @@ This plugin offers the ability to integrate two instances of GLPI via API, allow
 
 ![image](https://github.com/serviceticst/st-sync/assets/70910492/cfc27de5-2279-468f-94c5-497d2691eec4)
 
-
