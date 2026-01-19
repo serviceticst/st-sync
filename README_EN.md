@@ -34,7 +34,7 @@ With ST-Sync, information synchronization between different GLPI environments be
 
 ***
 
-### Developed by: Service TIC Soluções Tecnológicas
+### Developed by: Service TIC Technology Solutions
 
 - **E-mail**: [contato@servicetic.com.br](mailto:contato@servicetic.com.br)
 - **Website**: [www.servicetic.com.br](http://www.servicetic.com.br)
@@ -45,4 +45,6 @@ With ST-Sync, information synchronization between different GLPI environments be
 - **YouTube**: [@serviceticst](https://youtube.com/c/serviceticst)
 - **WhatsApp Channel**: [Click here](https://whatsapp.com/channel/0029VaAkV3P59PwXAiDepu3N)
 
-[![image](https://github.com/user-attachments/assets/17192a13-f0b6-4531-add0-99c7f46c24b0)](https://servicetic.com.br/links/)
+[![image](https://github.com/user-attachments/assets/c1090af1-b8dd-4586-a2ac-47b087baa5c5)](https://servicetic.com.br/links/)
+
+
