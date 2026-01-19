@@ -1,0 +1,37 @@
+# =========================
+# Sistema Operacional
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# IDEs / Editores
+# =========================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# =========================
+# Logs e Cache
+# =========================
+*.log
+logs/
+cache/
+tmp/
+
+# =========================
+# Arquivos temporários
+# =========================
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# =========================
+# Configurações locais
+# =========================
+.env
+.env.*

@@ -1,0 +1,20 @@
+# Normalize line endings
+* text=auto
+
+# PHP
+*.php text diff=php
+
+# Markdown
+*.md text diff=markdown
+
+# Images
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.svg binary
+
+# Archives
+*.zip binary
+*.tar binary
+*.gz binary
