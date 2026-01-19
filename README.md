@@ -22,8 +22,12 @@ Com o ST-Sync, a sincronização de informações entre diferentes ambientes do 
 
 ---
 
-### 📥 Download 
-- [Clique aqui](https://github.com/serviceticst/st-sync/releases) 
+### 📥 Download GLPI 10
+- [Clique aqui](https://github.com/serviceticst/st-sync/releases/download/1.0.0/stsync.zip) 
+
+### 📥 Download GLPI 11
+- [Lançamento em Janeiro de 2026](https://github.com/serviceticst/st-sync/releases) 
+
 ---
 
 ### ⚙️ Funcionalidades
